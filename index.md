@@ -4,8 +4,6 @@ published: true
 title: Open Hydrology
 ---
 
-Open Hydrology is an initiative to advance (flood) hydrology software using the principles of open source software. The aim is to build better software using collaboration. Better in terms of more user-friendly, streamlined workflows and increased capabilities.
-
 ## Contents
 
  * [Read the documentation](http://open-hydrology.readthedocs.org/ "Open Hydrology documentation on read the docs")
