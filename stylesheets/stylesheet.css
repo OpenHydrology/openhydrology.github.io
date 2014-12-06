@@ -297,10 +297,17 @@ Full-Width Styles
 
 #header_wrap .inner {
   padding: 50px 10px 30px 10px;
+  overflow-y: hidden;
+}
+
+#header_wrap .inner img {
+  float: left;
+  margin-right: 20px;
 }
 
 #project_title {
   margin: 0;
+  padding-top: 50px;
   color: #fff;
   font-size: 42px;
   font-weight: 700;
