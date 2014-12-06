@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.2"
+   width="230"
+   height="230"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-822.36218)"
+     id="layer1">
+    <g
+       transform="matrix(1.1748985,0,0,1.1629389,-20.517079,-154.65968)"
+       id="g3843"
+       style="fill:#eeeeec">
+      <path
+         d="m 66.015625,994.0028 c -14.166704,0 -25.195338,-5.31249 -33.085938,-15.9375 -7.890635,-10.62497 -11.835943,-23.74996 -11.835937,-39.375 -6e-6,-15.52076 4.192698,-28.50252 12.578125,-38.94531 8.38539,-10.44261 19.453087,-15.66395 33.203125,-15.66406 13.854101,1.1e-4 24.804611,5.22145 32.851562,15.66406 8.046778,10.44279 12.070218,23.50267 12.070318,39.17969 -1e-4,16.45837 -4.17979,29.75263 -12.539068,39.88281 -8.35945,10.13021 -19.440168,15.19531 -33.242187,15.19531 z m -0.479911,-18.42633 c 15,0 25,-15 25,-30 0,-15 -10,-25 -25,-45 -15,20 -25,30 -25,45 0,15 10,30 25,30 z"
+         id="path3002"
+         style="font-size:160px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Franklin Gothic Medium;-inkscape-font-specification:'Franklin Gothic Medium,'" />
+      <path
+         d="m 129.84375,63.34375 0,106.65625 19.21875,0 0,-51.25 c 2.37608,0.52213 5.45824,1.57944 9.3125,3.15625 10.67763,4.3086 16.30805,6.95835 24.28125,6.09375 2.769,-0.30023 5.05576,-0.71851 7.09375,-1.21875 l 0,43.21875 19.21875,0 0,-106.65625 -19.21875,0 0,44.46875 c -2.08912,0.5943 -4.0612,0.95329 -5.9375,0.9375 -2.87437,-0.024 -8.12825,-1.61205 -15.6875,-4.78125 -8.29358,-3.4681 -14.49149,-5.2147 -18.65625,-5.25 -0.13646,-0.0012 -0.27017,-6.41e-4 -0.40625,0 l 0,-35.375 -19.21875,0 z"
+         transform="translate(0,822.36218)"
+         id="path3004"
+         style="font-size:160px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Franklin Gothic Medium;-inkscape-font-specification:'Franklin Gothic Medium,'" />
+    </g>
+  </g>
+</svg>
