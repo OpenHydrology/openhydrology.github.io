@@ -18,9 +18,9 @@ We are building a library of open source hydrological software written in Python
  
 ### Stay in touch
  
- * [Spread the news on *Twitter*](http://twitter.com/OpenHydrology "Open Hydrology Twitter page")
- * [Follow us on *Google+*](http://plus.google.com/101071121065952274778 "Open Hydrology Google+ group")
- * [Join the discussion on *LinkedIn*](http://www.linkedin.com/company/4842016, "Open Hydrology LinkedIn page")
- * [Get help on the *mailing list*](http://open-hydrology.68867.x6.nabble.com/ "Open Hydrology mailing list on Nabble")
+ * [Spread the news on **Twitter**](http://twitter.com/OpenHydrology "Open Hydrology Twitter page")
+ * [Follow us on **Google+**](http://plus.google.com/101071121065952274778 "Open Hydrology Google+ group")
+ * [Join the discussion on **LinkedIn**](http://www.linkedin.com/company/4842016, "Open Hydrology LinkedIn page")
+ * [Get help on the **mailing list**](http://open-hydrology.68867.x6.nabble.com/ "Open Hydrology mailing list on Nabble")
  
  
