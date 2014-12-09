@@ -6,13 +6,15 @@ title: Open Hydrology
 
 ## About
 
-We are building a library of open source hydrological software written in Python (3+) to operate as packages under an umbrella interface. Our current focus is on United Kingdom methods of flood magnitude-frequency estimation but we would also love to attract collaborators from around the world.
+We are building a library of open source hydrological software written in Python to operate as packages under an 
+umbrella interface. Our current focus is on United Kingdom methods of flood magnitude-frequency estimation but we would 
+also love to attract collaborators from around the world.
 
 ## Contents
 
 ### The project
 
- * [Read the documentation](http://open-hydrology.readthedocs.org/ "Open Hydrology documentation on read the docs")
+ * [Read the documentation](http://docs.open-hydrology.org/ "Open Hydrology documentation on read the docs")
  * [Explore the source code](https://github.com/OpenHydrology/ "Open Hydrology on GitHub")
  * [Contribute or request features](https://github.com/OpenHydrology/ "Open Hydrology on GitHub")
  
