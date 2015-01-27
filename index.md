@@ -12,6 +12,7 @@ We are building a library of open source hydrological software written in Python
 
 ### The project
 
+ * <a href="https://github.com/OpenHydrology/OH-Auto-Statistical/releases/latest" title="GitHub" target="_blank">Latest auto statistical Windows installer</a>
  * <a href="http://docs.open-hydrology.org/" title="Open Hydrology documentation on read the docs" target="_blank">Read the documentation</a>
  * <a href="https://github.com/OpenHydrology/" title="Open Hydrology on GitHub" target="_blank">Explore the source code</a>
  * <a href="https://github.com/OpenHydrology/" title="Open Hydrology on GitHub" target="_blank">Contribute or request features</a>
