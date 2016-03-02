@@ -22,3 +22,4 @@ We are building a library of open source hydrological software written in Python
  * <a href="http://www.twitter.com/OpenHydrology" title="Open Hydrology Twitter page" target="_blank">Spread the news on <b>Twitter</b></a>
  * <a href="http://plus.google.com/101071121065952274778" title="Open Hydrology Google+ group" target="_blank">Follow us on <b>Google+</b></a>
  * <a href="http://www.linkedin.com/company/open-hydrology" title="Open Hydrology LinkedIn page" target="_blank">Join the discussion on <b>LinkedIn</b></a>
+ * <a href="mailto:info@open-hydrology.org" title="info@open-hydrology.org" target="_blank">Email info@open-hydrology.org with specific queries</a>
